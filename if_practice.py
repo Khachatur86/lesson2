@@ -11,6 +11,7 @@ def age_comparing():
         return "You have to work or finding job"
     return "People don't live so much."
 
+# Second func
 
 def compare_string(str1: str, str2: str) -> bool:
     if isinstance(str1, str) and isinstance(str2, str):
