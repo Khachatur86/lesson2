@@ -1,0 +1,69 @@
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/Users/Khachatur/PycharmProjects/lesson1.8/venv/lib/python3.6/site-packages/telegram/ext/dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "/Users/Khachatur/PycharmProjects/lesson1.8/venv/lib/python3.6/site-packages/telegram/ext/commandhandler.py", line 173, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "/Users/Khachatur/Desktop/projects/lesson2/planet.py", line 9, in planet_constellation
+    planet_name = update.message.text.split()[1].capitalize()
+IndexError: list index out of range
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/Users/Khachatur/PycharmProjects/lesson1.8/venv/lib/python3.6/site-packages/telegram/ext/dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "/Users/Khachatur/PycharmProjects/lesson1.8/venv/lib/python3.6/site-packages/telegram/ext/commandhandler.py", line 173, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "/Users/Khachatur/Desktop/projects/lesson2/planet.py", line 9, in planet_constellation
+    planet_name = update.message.text.split()[1].capitalize()
+IndexError: list index out of range
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/Users/Khachatur/PycharmProjects/lesson1.8/venv/lib/python3.6/site-packages/telegram/ext/dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "/Users/Khachatur/PycharmProjects/lesson1.8/venv/lib/python3.6/site-packages/telegram/ext/commandhandler.py", line 173, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "/Users/Khachatur/Desktop/projects/lesson2/planet.py", line 9, in planet_constellation
+    planet_name = update.message.text.split()[1].capitalize()
+IndexError: list index out of range
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/Users/Khachatur/PycharmProjects/lesson1.8/venv/lib/python3.6/site-packages/telegram/ext/dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "/Users/Khachatur/PycharmProjects/lesson1.8/venv/lib/python3.6/site-packages/telegram/ext/commandhandler.py", line 173, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "/Users/Khachatur/Desktop/projects/lesson2/planet.py", line 9, in planet_constellation
+    planet_name = update.message.text.split()[1].capitalize()
+IndexError: list index out of range
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/Users/Khachatur/PycharmProjects/lesson1.8/venv/lib/python3.6/site-packages/telegram/ext/dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "/Users/Khachatur/PycharmProjects/lesson1.8/venv/lib/python3.6/site-packages/telegram/ext/commandhandler.py", line 173, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "/Users/Khachatur/Desktop/projects/lesson2/planet.py", line 9, in planet_constellation
+    planet_name = update.message.text.split()[1].capitalize()
+IndexError: list index out of range
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/Users/Khachatur/PycharmProjects/lesson1.8/venv/lib/python3.6/site-packages/telegram/ext/dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "/Users/Khachatur/PycharmProjects/lesson1.8/venv/lib/python3.6/site-packages/telegram/ext/commandhandler.py", line 173, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "/Users/Khachatur/Desktop/projects/lesson2/planet.py", line 12, in planet_constellation
+    raise Exception('Нет такой планеты')
+Exception: Нет такой планеты
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/Users/Khachatur/PycharmProjects/lesson1.8/venv/lib/python3.6/site-packages/telegram/ext/dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "/Users/Khachatur/PycharmProjects/lesson1.8/venv/lib/python3.6/site-packages/telegram/ext/commandhandler.py", line 173, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "/Users/Khachatur/Desktop/projects/lesson2/planet.py", line 12, in planet_constellation
+    raise Exception('Нет такой планеты')
+Exception: Нет такой планеты
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
